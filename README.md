@@ -72,6 +72,9 @@ A beginner-friendly web application built using Streamlit featuring:
   - 100: *Congratulations. You grabbed all the points*
 - Visual feedback using balloon animations for high scores
 
+### 5. Flask – BMI Calculator App
+Learned the basics of Flask, including routing, handling forms, and connecting HTML/CSS with Python.  
+Created a basic BMI Calculator web application using Flask to understand frontend and backend integration
 ---
 
 ## 🚀 Summary
@@ -87,7 +90,7 @@ I will continue to build and improve my skills as the course progresses.
 - Python
 - PyAutoGUI
 - Playwright
-- Streamlit
+- Streamlit/Flask
 - Basic Web Automation Concepts
 
 ---
