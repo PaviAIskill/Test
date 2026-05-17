@@ -12,11 +12,7 @@ The primary purpose of this repository is to submit assignments, projects, and l
 During the first week of the course, I gained foundational knowledge in the following areas:
 
 1. Developed the right mindset required for learning Artificial Intelligence (AI)
-2. Understood core concepts of:
-   - Artificial Intelligence (AI)
-   - Machine Learning (ML)
-   - Deep Learning (DL)
-   - Generative AI (GEN AI)
+2. Understood core concepts of: AI, ML, DL and GEN AI
 3. Explored the role of AI in shaping the future and its real-world impact
 4. Learned Python programming fundamentals
 5. Got introduced to Robotic Process Automation (RPA) tools:
@@ -93,7 +89,6 @@ I will continue to build and improve my skills as the course progresses.
 - Playwright
 - Streamlit
 - Basic Web Automation Concepts
-- UI/UX Basics for Web Apps
 
 ---
 
